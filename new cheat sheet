@@ -1,0 +1,18 @@
+$ cat cheat-sheet.txt (shows what's in txt file)
+$ cd Desktop (change directory)
+$ cd projects
+$ echo "Hello from the command line"
+$ echo "This is my cheat sheet" > cheat-sheet.txt
+$ echo "This is my cheat sheet" cheat sheet.txt
+$ ls
+$ pwd (print working directory)
+$ whoami
+This is my cheat sheet
+This is my cheat sheet cheat sheet.txt (did NADA)
+
+grep "global regular expression print" (search)
+grep -i (ignore capitalization)
+wc -l (wordcount L not #1)
+mkdir (make new directory folder)
+mkdir cheatsheets, tidydata, etc
+mv cheat-sheet.txt cheatsheets (folder)
